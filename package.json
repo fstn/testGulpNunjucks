@@ -1,0 +1,11 @@
+{
+  "name": "test-numjucks",
+  "description": "Manipulation of documents",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "gulp": "3.9.0",    
+    "bower": "1.6.5",
+    "gulp-nunjucks-render": "^2.0.0"
+  }
+}
